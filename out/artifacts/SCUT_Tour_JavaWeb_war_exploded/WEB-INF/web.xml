@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <servlet>
+        <servlet-name>getLivingCategories</servlet-name>
+        <servlet-class>com.UniversityMap.servlet.getLivingCategories</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getLivingCategories</servlet-name>
+        <url-pattern>/getlivingcategories</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>getStudyCategories</servlet-name>
+        <servlet-class>com.UniversityMap.servlet.getStudyCategories</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getStudyCategories</servlet-name>
+        <url-pattern>/getstudycategories</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>bmMarkerPoints</servlet-name>
+        <servlet-class>com.UniversityMap.servlet.bmMarkerPoints</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>bmMarkerPoints</servlet-name>
+        <url-pattern>/getbmmarkerpoints</url-pattern>
+    </servlet-mapping>
+</web-app>
