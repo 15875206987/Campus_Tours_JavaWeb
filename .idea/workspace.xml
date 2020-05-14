@@ -6,7 +6,28 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3cf1db3-6c15-4c32-9692-2fa5f5af247d" name="Default Changelist" comment="" />
+    <list default="true" id="e3cf1db3-6c15-4c32-9692-2fa5f5af247d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_dbutils_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SCUT_Tour_JavaWeb_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SCUT_Tour_JavaWeb_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCUT_Tour_JavaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SCUT_Tour_JavaWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/bmMarkerPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getLivingCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getLivingCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getStudyCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getStudyCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/bmMarkerPoints.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getLivingCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getLivingCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getStudyCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getStudyCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/bmMarkerPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getMarkerPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getLivingCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getLivingCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getStudyCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getStudyCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +42,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -37,22 +61,33 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/libs" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaWorkspace\SCUT_Tour_JavaWeb\web\WEB-INF\libs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaWorkspace\SCUT_Tour_JavaWeb\src" />
+      <recent name="D:\IdeaWorkspace\SCUT_Tour_JavaWeb\src\com\util" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.32" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="https://localhost:8443/SCUT_Tour_JavaWeb/" />
       <deployment>
         <artifact name="SCUT_Tour_JavaWeb:war exploded">
           <settings>
@@ -128,7 +163,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.2205746" />
+          <option name="contentProportion" value="0.2930328" />
           <treeState>
             <expand>
               <path>
@@ -138,7 +173,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -159,21 +194,54 @@
       <updated>1587443831154</updated>
       <workItem from="1587443837324" duration="2995000" />
       <workItem from="1587459243458" duration="10859000" />
+      <workItem from="1587815561504" duration="958000" />
+      <workItem from="1587819229458" duration="4822000" />
+      <workItem from="1587869393007" duration="23976000" />
+      <workItem from="1588419211383" duration="6918000" />
+      <workItem from="1588741318106" duration="12625000" />
+      <workItem from="1588809954286" duration="2088000" />
+      <workItem from="1588917502614" duration="10008000" />
+      <workItem from="1589008093266" duration="3937000" />
+      <workItem from="1589244771681" duration="14392000" />
+      <workItem from="1589284415708" duration="4848000" />
+      <workItem from="1589373956911" duration="4369000" />
+      <workItem from="1589421610266" duration="5544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="579" y="232" key="#BuildArtifactsBeforeRunChooser" timestamp="1588421089515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="232" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1588421089515" />
     <state x="554" y="74" key="#Project_Structure" timestamp="1587462922405">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="554" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1587462922405" />
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587443892909">
+    <state x="253" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588917593621">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587443892909" />
+    <state x="253" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588917593621" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1589274997311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589274997311" />
     <state x="691" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1587459637183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -182,57 +250,65 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="690" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587459644739" />
-    <state width="1140" height="312" key="GridCell.Tab.0.bottom" timestamp="1587485891989">
+    <state width="1034" height="302" key="GridCell.Tab.0.bottom" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587485891989" />
-    <state width="1140" height="312" key="GridCell.Tab.0.center" timestamp="1587485891989">
+    <state width="1034" height="302" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.0.center" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587485891989" />
-    <state width="1140" height="312" key="GridCell.Tab.0.left" timestamp="1587485891989">
+    <state width="1034" height="302" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.0.left" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587485891989" />
-    <state width="1140" height="312" key="GridCell.Tab.0.right" timestamp="1587485891989">
+    <state width="1034" height="302" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.0.right" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587485891989" />
-    <state width="1140" height="312" key="GridCell.Tab.1.bottom" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.1.bottom" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.1.center" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.1.center" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.1.left" timestamp="1587485891989">
+    <state width="1034" height="302" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.1.left" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587485891989" />
-    <state width="1140" height="312" key="GridCell.Tab.1.right" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.1.right" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.2.bottom" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.2.bottom" timestamp="1589454674135">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.2.center" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674135" />
+    <state width="1034" height="302" key="GridCell.Tab.2.center" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.2.left" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.2.left" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state width="1140" height="312" key="GridCell.Tab.2.right" timestamp="1587485891990">
+    <state width="1034" height="302" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="1034" height="302" key="GridCell.Tab.2.right" timestamp="1589454674134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1140" height="312" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1587485891990" />
-    <state x="498" y="0" key="SettingsEditor" timestamp="1587459617413">
+    <state width="1034" height="302" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state x="241" y="0" key="SettingsEditor" timestamp="1588431953748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587459617413" />
+    <state x="241" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588431953748" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589421630403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589421630403" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587915030890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587915030890" />
   </component>
 </project>
