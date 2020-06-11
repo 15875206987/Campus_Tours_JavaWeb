@@ -7,25 +7,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3cf1db3-6c15-4c32-9692-2fa5f5af247d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_dbutils_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SCUT_Tour_JavaWeb_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SCUT_Tour_JavaWeb_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SCUT_Tour_JavaWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SCUT_Tour_JavaWeb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/bmMarkerPoints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getLivingCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getLivingCategories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getStudyCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/getStudyCategories.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/Image/major_photo/1/地点.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/Image/major_photo/1/方法.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/SchoolIntro/servlet/addMajor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/SchoolIntro/servlet/addMajor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/SchoolIntro/servlet/getMajorList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/SchoolIntro/servlet/getMajorList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/addSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/UniversityMap/servlet/addSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/MajorDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/MajorDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/SchoolDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/SchoolDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/SiteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/classes/com/dao/SiteDao.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/SCUT_Tour_JavaWeb_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/bmMarkerPoints.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getLivingCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getLivingCategories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getStudyCategories.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/getStudyCategories.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/bmMarkerPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getMarkerPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getLivingCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getLivingCategories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getStudyCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/getStudyCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/SchoolIntro/servlet/addMajor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/SchoolIntro/servlet/addMajor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/SchoolIntro/servlet/getMajorList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/SchoolIntro/servlet/getMajorList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/addSite.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/UniversityMap/servlet/addSite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/MajorDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/MajorDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/SchoolDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/SchoolDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/SiteDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SCUT_Tour_JavaWeb/com/dao/SiteDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SchoolIntro/servlet/addMajor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SchoolIntro/servlet/addMajor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/SchoolIntro/servlet/getMajorList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/SchoolIntro/servlet/getMajorList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/UniversityMap/servlet/addSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/UniversityMap/servlet/addSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/MajorDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/MajorDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/SchoolDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/SchoolDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dao/SiteDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dao/SiteDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Image/major_photo/1/地点.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Image/major_photo/1/方法.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +72,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/libs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -163,17 +171,12 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.2930328" />
+          <option name="contentProportion" value="0.9931647" />
           <treeState>
             <expand>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -206,6 +209,14 @@
       <workItem from="1589284415708" duration="4848000" />
       <workItem from="1589373956911" duration="4369000" />
       <workItem from="1589421610266" duration="5544000" />
+      <workItem from="1589708958720" duration="10469000" />
+      <workItem from="1589851442432" duration="6163000" />
+      <workItem from="1589946337006" duration="122000" />
+      <workItem from="1591059671575" duration="11748000" />
+      <workItem from="1591155969714" duration="13767000" />
+      <workItem from="1591448391296" duration="4939000" />
+      <workItem from="1591583570158" duration="1854000" />
+      <workItem from="1591858674043" duration="976000" />
     </task>
     <servers />
   </component>
@@ -250,62 +261,66 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="690" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1587459644739" />
-    <state width="1034" height="302" key="GridCell.Tab.0.bottom" timestamp="1589454674134">
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1589946455767">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.0.center" timestamp="1589454674134">
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589946455767" />
+    <state width="172" height="225" key="GridCell.Tab.0.bottom" timestamp="1591633563717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.0.left" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591633563717" />
+    <state width="172" height="225" key="GridCell.Tab.0.center" timestamp="1591633563717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.0.right" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591633563717" />
+    <state width="172" height="225" key="GridCell.Tab.0.left" timestamp="1591633563716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.1.bottom" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591633563716" />
+    <state width="172" height="225" key="GridCell.Tab.0.right" timestamp="1591633563717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.1.center" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591633563717" />
+    <state width="172" height="225" key="GridCell.Tab.1.bottom" timestamp="1591633563718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.1.left" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591633563718" />
+    <state width="172" height="225" key="GridCell.Tab.1.center" timestamp="1591633563718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.1.right" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1591633563718" />
+    <state width="172" height="225" key="GridCell.Tab.1.left" timestamp="1591633563717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.2.bottom" timestamp="1589454674135">
+    <state width="172" height="225" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1591633563717" />
+    <state width="172" height="225" key="GridCell.Tab.1.right" timestamp="1591633563718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589454674135" />
-    <state width="1034" height="302" key="GridCell.Tab.2.center" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1591633563718" />
+    <state width="172" height="225" key="GridCell.Tab.2.bottom" timestamp="1591633563719">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.2.left" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591633563719" />
+    <state width="172" height="225" key="GridCell.Tab.2.center" timestamp="1591633563718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
-    <state width="1034" height="302" key="GridCell.Tab.2.right" timestamp="1589454674134">
+    <state width="172" height="225" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591633563718" />
+    <state width="172" height="225" key="GridCell.Tab.2.left" timestamp="1591633563718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1034" height="302" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1589454674134" />
+    <state width="172" height="225" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591633563718" />
+    <state width="172" height="225" key="GridCell.Tab.2.right" timestamp="1591633563719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="172" height="225" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591633563719" />
     <state x="241" y="0" key="SettingsEditor" timestamp="1588431953748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="241" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588431953748" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1589421630403">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1591858677733">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589421630403" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1591858677733" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587915030890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

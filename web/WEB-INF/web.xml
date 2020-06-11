@@ -21,6 +21,34 @@
         <servlet-name>getStudyCategories</servlet-name>
         <url-pattern>/getstudycategories</url-pattern>
     </servlet-mapping>
+    <!--add种类-->
+    <servlet>
+        <servlet-name>addCategory</servlet-name>
+        <servlet-class>com.SitesManagement.servlet.addCategory</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>addCategory</servlet-name>
+        <url-pattern>/addcategory</url-pattern>
+    </servlet-mapping>
+    <!--delete种类-->
+    <servlet>
+        <servlet-name>deleteCategory</servlet-name>
+        <servlet-class>com.SitesManagement.servlet.deleteCategory</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>deleteCategory</servlet-name>
+        <url-pattern>/deletecategory</url-pattern>
+    </servlet-mapping>
+    <!--update种类-->
+    <servlet>
+        <servlet-name>UpdateCategory</servlet-name>
+        <servlet-class>com.SitesManagement.servlet.UpdateCategory</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>UpdateCategory</servlet-name>
+        <url-pattern>/updatecategory</url-pattern>
+    </servlet-mapping>
+
 <!--得到所有标记地点-->
     <servlet>
         <servlet-name>getMarkerPoints</servlet-name>
@@ -39,6 +67,14 @@
         <servlet-name>addSite</servlet-name>
         <url-pattern>/addsite</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>updateSite</servlet-name>
+        <servlet-class>com.SitesManagement.servlet.updateSite</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updateSite</servlet-name>
+        <url-pattern>/updatesite</url-pattern>
+    </servlet-mapping>
 <!--    删除标记地点-->
     <servlet>
         <servlet-name>removeSite</servlet-name>
@@ -56,6 +92,33 @@
     <servlet-mapping>
         <servlet-name>getSchoolList</servlet-name>
         <url-pattern>/getschoollist</url-pattern>
+    </servlet-mapping>
+<!--    删除院系列表-->
+    <servlet>
+        <servlet-name>deleteSchool</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.deleteSchool</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>deleteSchool</servlet-name>
+        <url-pattern>/deleteschool</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>updateSchool</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.updateSchool</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updateSchool</servlet-name>
+        <url-pattern>/updateschool</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>addSchool</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.addSchool</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>addSchool</servlet-name>
+        <url-pattern>/addschool</url-pattern>
     </servlet-mapping>
 
 <!--    获取专业列表-->
@@ -77,7 +140,33 @@
         <servlet-name>addMajor</servlet-name>
         <url-pattern>/addmajor</url-pattern>
     </servlet-mapping>
-
+<!--  删除专业-->
+    <servlet>
+        <servlet-name>deleteMajor</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.deleteMajor</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>deleteMajor</servlet-name>
+        <url-pattern>/deletemajor</url-pattern>
+    </servlet-mapping>
+<!--更新专业-->
+    <servlet>
+        <servlet-name>updateMajor</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.updateMajor</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>updateMajor</servlet-name>
+        <url-pattern>/updatemajor</url-pattern>
+    </servlet-mapping>
+<!--获取学校信息-->
+    <servlet>
+        <servlet-name>getUniversityInfo</servlet-name>
+        <servlet-class>com.SchoolIntro.servlet.getUniversityInfo</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getUniversityInfo</servlet-name>
+        <url-pattern>/getuniversityinfo</url-pattern>
+    </servlet-mapping>
 <!--    以下是微信小程序接口的Servlet配置-->
     <servlet>
         <servlet-name>getMarkers</servlet-name>
@@ -86,5 +175,41 @@
     <servlet-mapping>
         <servlet-name>getMarkers</servlet-name>
         <url-pattern>/getmarkers</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>getCategories</servlet-name>
+        <servlet-class>com.Wechat.servlet.getCategories</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getCategories</servlet-name>
+        <url-pattern>/getcategories</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>getDepartments</servlet-name>
+        <servlet-class>com.Wechat.servlet.getDepartments</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getDepartments</servlet-name>
+        <url-pattern>/getdepartments</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>getMajors</servlet-name>
+        <servlet-class>com.Wechat.servlet.getMajors</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getMajors</servlet-name>
+        <url-pattern>/getmajors</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>getUniversity</servlet-name>
+        <servlet-class>com.Wechat.servlet.getUniversity</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>getUniversity</servlet-name>
+        <url-pattern>/getuniversity</url-pattern>
     </servlet-mapping>
 </web-app>

@@ -24,9 +24,11 @@ public class addSite extends HttpServlet {
         }
         System.out.println(responseStrBuilder.toString());
         SiteDao siteDao = new SiteDao();
+        String basePath = request.getServletContext().getRealPath("");
+        System.out.println(basePath);
         int result = 0;
         try {
-            result = siteDao.addSite(responseStrBuilder.toString());
+            result = siteDao.addSite(responseStrBuilder.toString(),basePath);
         } catch (Exception e) {
             e.printStackTrace();
         }

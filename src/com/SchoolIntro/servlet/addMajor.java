@@ -25,9 +25,11 @@ public class addMajor extends HttpServlet {
         }
         System.out.println(responseStrBuilder.toString());
         MajorDao majorDao = new MajorDao();
+        String basePath = request.getServletContext().getRealPath("");
+        System.out.println(basePath);
         int result = 0;
         try {
-            result = majorDao.addMajor(responseStrBuilder.toString());
+            result = majorDao.addMajor(responseStrBuilder.toString(),basePath);
         } catch (Exception e) {
             e.printStackTrace();
         }
